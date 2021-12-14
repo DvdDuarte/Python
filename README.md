@@ -1,4 +1,4 @@
-# [Rust](https://www.rust-lang.org/learn)
+# [Python](https://docs.python.org/3/)
 
 <!-- <a href="https://www.rust-lang.org/learn"><img src="https://user-images.githubusercontent.com/62104686/145560950-08113a15-45ec-481f-a92b-ce3b1b0e2dc6.png" width=150px alt="rust-icon"></a> -->
 
